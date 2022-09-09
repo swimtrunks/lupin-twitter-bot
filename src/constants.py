@@ -1,0 +1,1 @@
+TAGS = ["knowledge", "life", "quotes"]
