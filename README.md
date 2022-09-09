@@ -17,3 +17,5 @@ Right now it just tweets at the top of the hour but I plan on adding :
 <li> Liking and retweeting certain tweets</li>
 <li> Expanding the array of things the bot can tweet </li>
 </ul>
+
+It is currently hosted over at Heroku and I will keep it running until the free tier shuts down later on this year. Once that happens I will look to find another place to host this if there is still work I want to do with it. 
